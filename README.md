@@ -1,6 +1,6 @@
 # chordpad
 
-chordpad is an [AutoHotkey](autohotkey.com) script that [chords](https://en.wikipedia.org/wiki/Chorded_keyboard) a 15 key numberpad into your 1 to 4 keys.
+chordpad is an [AutoHotkey](autohotkey.com) script that [chords](https://en.wikipedia.org/wiki/Chorded_keyboard) a 15 key numberpad into your 1 to 4 keys. You will need a keyboard that can register all 4 of those keys being pressed at the same time.
 
 | Input   | Output    |
 | ------- | --------- |
