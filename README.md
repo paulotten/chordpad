@@ -17,7 +17,7 @@ chordpad.ahk and arrowpad.ahk are [AutoHotkey](autohotkey.com) scripts that [cho
 | 1,2,3            | ←,↑,↓            | 0 / Ins   |
 | 2,3,4            | ↑,↓,→            | . / Del   |
 | 1,3,4            | ←,↑,→            | -         |
-| 1,2,4            | ←,↓,→            | ,         |
+| 1,2,4            | ←,↓,→            | +         |
 | 1,4              | ←,→              | Enter     |
 
 Output is generate on key up, so while it should be 100% accurate, there is no key repeat.
