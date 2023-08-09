@@ -1,6 +1,6 @@
 # chordpad.ahk and arrowpad.ahk
 
-chordpad.ahk and arrowpad.ahk are [AutoHotkey](autohotkey.com) scripts that [chord](https://en.wikipedia.org/wiki/Chorded_keyboard) a 15 key numberpad into your 1 to 4 keys or arrow keys respectively.
+chordpad.ahk and arrowpad.ahk are [AutoHotkey](https://autohotkey.com) scripts that [chord](https://en.wikipedia.org/wiki/Chorded_keyboard) a 15 key numberpad into your 1 to 4 keys or arrow keys respectively.
 
 You will need a keyboard that can register all 4 of those keys being pressed at the same time. Keyboards with [n-key rollover](https://en.wikipedia.org/wiki/Rollover_(key)#n-key_rollover) should work. If your keyboard doesn't have n-key rollover, chordpad.ahk may work better for you.
 
